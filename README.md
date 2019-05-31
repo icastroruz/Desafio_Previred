@@ -25,6 +25,7 @@ Este proyecto expone un API REST que entrega la siguiente información:
       "1969-08-01",
       "1971-05-01"]
 }
+
 ```
 *Nota*:
 El formato de las fechas es yyyy-MM-dd
